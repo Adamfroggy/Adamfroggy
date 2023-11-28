@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adam Frawley</h1>
+<h1 align="center">Hi 👋, I'm Adam </h1>
 <h3 align="center">Data Science Student</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamfroggy" alt="adamfroggy" /></a> </p>
