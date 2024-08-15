@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamfroggy" alt="adamfroggy" /></a> </p>
 
-- 🔭 I’m currently working on **ML, LLM, Python, Github, MongoDB, SQL **
+- 🔭 I’m currently working on **ML, LLM, Python, Github, MongoDB, SQL**
 
 - 🌱 I’m currently learning **Python, Model building, Software engineering, SQL, Data Analysis**
 
