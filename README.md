@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adam </h1>
+![image](https://github.com/user-attachments/assets/6ad385e4-4525-49dc-8e03-15a962b07860)
+
 <h3 align="center">Data Scientist </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamfroggy" alt="adamfroggy" /></a> </p>
