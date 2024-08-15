@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ML, LLM, Python, Github, MongoDB, SQL **
 
-- 🌱 I’m currently learning **Python, Model building, Software engineering**
+- 🌱 I’m currently learning **Python, Model building, Software engineering, SQL, Data Analysis**
 
 - 👯 I’m looking to collaborate on **New Projects**
 
