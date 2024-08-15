@@ -13,8 +13,6 @@
 - :) Ask me about **Anything**
 
 - Im always looking to **learn and try new things!**
-
-- My profile design - ![Hello World](./assets/hello_world_adam.png)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
